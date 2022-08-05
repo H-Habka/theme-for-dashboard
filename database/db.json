@@ -1,0 +1,374 @@
+{
+  "users": [
+    {
+      "email": "gynal@mailinator.com",
+      "password": "$2a$10$4DaXrQBP9sB7WhUoWo/Da.O.VyNU2plBXi0oKa2GrOosTOAttOhwi",
+      "photoURL": "assets/images/avatars/Copeland.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Amal Doyle",
+      "role": [
+        "user"
+      ],
+      "id": 1
+    },
+    {
+      "email": "lifuk@mailinator.com",
+      "password": "$2a$10$A0b7fXjBN8rusepc6PEOCe9VqogbQK55mFPkJtQHYvB/wEliwnNtK",
+      "photoURL": "assets/images/avatars/Mai.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Aidan Gonzalez",
+      "role": [
+        "user"
+      ],
+      "id": 2
+    },
+    {
+      "email": "ryxeqice@mailinator.com",
+      "password": "$2a$10$21elst2b8PS4fsH2cspS7emduL17vEn4LM6rrhR4Cz6SMaX7Bs9bq",
+      "photoURL": "assets/images/avatars/Trevino.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Keefe Lester",
+      "role": [
+        "user"
+      ],
+      "id": 3
+    },
+    {
+      "email": "gihim@mailinator.com",
+      "password": "$2a$10$CyOqJ8Fx6XB2kaFOnT/eyew7J0Jgx5KlhgP5pgVwxz.6nl3uoMJT.",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Quinn Clements",
+      "role": [
+        "user"
+      ],
+      "id": 4
+    },
+    {
+      "email": "gisisodyz@mailinator.com",
+      "password": "$2a$10$u0wtLM1X/mmSsqZJhLXeY.gtewNnfzYWiNEaAGAdmIaKooQRva/xO",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Seth Lang",
+      "role": [
+        "user"
+      ],
+      "id": 5
+    },
+    {
+      "email": "sykixis@mailinator.com",
+      "password": "$2a$10$00e6sDIrdVFARcQATKrtXOZwXxCCezJUyiE8hQ5Sc0UudcMsUhYpC",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Garrett Garrett",
+      "role": [
+        "user"
+      ],
+      "id": 6
+    },
+    {
+      "email": "ranymumob@mailinator.com",
+      "password": "$2a$10$EQ8/hib7XoqiAC.y0WUrv.tnA9vxG.sDzKPSRx8dj5Id49PFMbyqa",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Aurelia Hampton",
+      "role": [
+        "user"
+      ],
+      "id": 7
+    },
+    {
+      "email": "byri@mailinator.com",
+      "password": "$2a$10$mk0hOpYA2G2r0H1N3cV6LeZ/Vlh1ZotQfiY/AwOEMeQEyv5a7BSVa",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Jessica Hewitt",
+      "role": [
+        "user"
+      ],
+      "id": 8
+    },
+    {
+      "email": "rulujuzigo@mailinator.com",
+      "password": "$2a$10$PdDrsPQcIlyyb99C21u2ce84zWlTUhMQzL9HW.LtSjz430VSX/9e2",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "David Walton",
+      "role": [
+        "user"
+      ],
+      "id": 9
+    },
+    {
+      "email": "zijavaf@mailinator.com",
+      "password": "$2a$10$sR/Cr7FesgwPe76LYk.AzestEsE6Ljn.CiczhdsFQc2ibaERlSBAO",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Odessa Fox",
+      "role": [
+        "user"
+      ],
+      "id": 10
+    },
+    {
+      "email": "qykeseh@mailinator.com",
+      "password": "$2a$10$1L3rUCvL9hMIPMY9wFzEu.82zeoaAKYhjKlA78wq5Q8LJxAeDVAqC",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Jolene Heath",
+      "role": [
+        "user"
+      ],
+      "id": 11
+    },
+    {
+      "email": "motygu@mailinator.com",
+      "password": "$2a$10$6JSxgsJ0PyDaHdLKJijEjOMLt.u5gS4nfZBab7tPbflRJ29Lqf3HO",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Aurora Santana",
+      "role": [
+        "user"
+      ],
+      "id": 12
+    },
+    {
+      "email": "luji@mailinator.com",
+      "password": "$2a$10$jIVuSP3.dtxwmEosAen4uuf.YcjaYtl5SLkmnv0teek6e5HOIpnz.",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Lyle Sandoval",
+      "role": [
+        "user"
+      ],
+      "id": 13
+    },
+    {
+      "email": "hossien.habka100@gmail.com",
+      "password": "$2a$10$COHyO6zrkV2fqr5McP7jw.TwKQwSdDPvstw6.6dqfB2HWYm0SpQfe",
+      "displayName": "hossien hossien habka",
+      "id": 14
+    },
+    {
+      "email": "wibihutopy@mailinator.com",
+      "password": "$2a$10$ZjrNl0pg80RDLgVL82TShOrm9x8J6pJE4LbXY5WPqL5/GKn5q98By",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Plato Aguirre",
+      "role": [
+        "user"
+      ],
+      "id": 15
+    },
+    {
+      "email": "gyneguder@mailinator.com",
+      "password": "$2a$10$7RpW86RhCoPwbMaakN93h.osDqhba8h/kuHgdGO4p1T8A4hKBhPlO",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Declan Guy",
+      "role": [
+        "user"
+      ],
+      "id": 16
+    },
+    {
+      "email": "xoki@mailinator.com",
+      "password": "$2a$10$.GjPEVj5UYoEaeZsO7kuwO4vAVFq/wJ5bEmBeYLAq5//3Jpseutfi",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Christine Compton",
+      "role": [
+        "user"
+      ],
+      "id": 17
+    },
+    {
+      "email": "xezafe@mailinator.com",
+      "password": "$2a$10$l.qUoGGj8fx1LHtCty.X.eb9j9nBdk562QjSvn6vxn7fcQL4qGlrC",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Lewis Anthony",
+      "role": [
+        "user"
+      ],
+      "id": 18
+    },
+    {
+      "email": "muzun@mailinator.com",
+      "password": "$2a$10$VJxtpnc1fZB0QVFeZqwdG.r7vJtjSNiQxsMfT9LtNzbmm5iVMZIf2",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Velma Swanson",
+      "role": [
+        "user"
+      ],
+      "id": 19
+    },
+    {
+      "email": "tuqep@mailinator.com",
+      "password": "$2a$10$x5S.Heq64DrpHNUBv8lfAegbgzkdIIRcDf7NoY09Jyn4JsPSjArDC",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Daniel Wilder",
+      "role": [
+        "user"
+      ],
+      "id": 20
+    },
+    {
+      "email": "sapejijo@mailinator.com",
+      "password": "$2a$10$ec.BtXD8POpLmAMIvIqjmeoZf0Dc1YObIAedi0bBlyhZwBHq8t4MO",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Clark Sparks",
+      "role": [
+        "user"
+      ],
+      "id": 21
+    },
+    {
+      "email": "mibudazili@mailinator.com",
+      "password": "$2a$10$SDvIXsQOEp4b2nU/MkcRv.T4YphyOy1L38XRnN6FAFeNth6qZoHUG",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Jorden Marshall",
+      "role": [
+        "user"
+      ],
+      "id": 22
+    },
+    {
+      "email": "seduz@mailinator.com",
+      "password": "$2a$10$Iq/QaQs6hzryrtP3/tb5f.sJiZ/zRSzzxwJ6r2fwd5f2MjluUKqOy",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Myra Scott",
+      "role": [
+        "user"
+      ],
+      "id": 23
+    },
+    {
+      "email": "vegaq@mailinator.com",
+      "password": "$2a$10$V7tiu5oHHs2WjaRiln3u8uM8Q4w/A59sJjhraZ3mM0u9mu3gDeWaO",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Judith Hawkins",
+      "role": [
+        "user"
+      ],
+      "id": 24
+    },
+    {
+      "email": "widijovaca@mailinator.com",
+      "password": "$2a$10$cnrT8wVD40hD85rIY62/YupGl8cuUc0CTX6rbeG/6vhcjHOZqZYMS",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Imelda Kane",
+      "role": [
+        "user"
+      ],
+      "id": 25
+    },
+    {
+      "email": "rexenunyj@mailinator.com",
+      "password": "$2a$10$nICftzHTydrp10UYOOLNuu3VQNu0bDNB7NybWmp0ggD33eVvL86Gu",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Justin Hutchinson",
+      "role": [
+        "user"
+      ],
+      "id": 26
+    },
+    {
+      "email": "nacudimogi@mailinator.com",
+      "password": "$2a$10$8CV9QKNoKnGBNsRJK/.wnu/OV6u74Yok2tJ0N51Nb8Q4YVC3BQeuq",
+      "photoURL": "assets/images/avatars/Hossien.jpg",
+      "shortcuts": [
+        "contacts",
+        "todo"
+      ],
+      "displayName": "Oprah Jacobson",
+      "role": [
+        "user"
+      ],
+      "id": 27
+    }
+  ]
+}
